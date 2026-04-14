@@ -1,2 +1,2 @@
-# Unciv.mi.mod
+# Unciv mod Mexico
 Mexico
