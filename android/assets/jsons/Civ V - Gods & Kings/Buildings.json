@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Templo Azteca",
+    "cost": 120,
+    "maintenance": 2,
+    "requiredTech": "Mysticism",
+    "uniques": ["+3 Cultura por turno", "+1 Ciencia por especialista", "Proporciona 1 especialista de Ciencia"],
+    "replaces": "Temple"
+  },
+  {
+    "name": "Pirámide del Sol",
+    "cost": 300,
+    "maintenance": 4,
+    "requiredTech": "Construction",
+    "uniques": ["+5 Cultura por turno", "+2 Ciencia por turno", "Requiere 2 turnos para construir"],
+    "isWonder": true,
+    "replaces": "Stonehenge"
+  },
+  {
+    "name": "Chinampa",
+    "cost": 80,
+    "maintenance": 1,
+    "requiredTech": "Agriculture",
+    "uniques": ["+2 Alimentos por turno en ciudades costeras", "+1 Producción por turno"],
+    "replaces": "Granary"
+  },
+  {
+    "name": "Fortaleza Colonial",
+    "cost": 150,
+    "maintenance": 3,
+    "requiredTech": "Chivalry",
+    "uniques": ["+15% Defensa en la ciudad", "+2 Oro por turno", "Reduce daño de asedio"],
+    "replaces": "Castle"
+  },
+  {
+    "name": "Mercado Mexicano",
+    "cost": 100,
+    "maintenance": 2,
+    "requiredTech": "Currency",
+    "uniques": ["+3 Oro por turno", "+1 Comercio por especialista", "Proporciona 1 especialista de Oro"],
+    "replaces": "Market"
+  }
+]

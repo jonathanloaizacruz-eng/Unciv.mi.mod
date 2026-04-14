@@ -1,0 +1,48 @@
+[
+  {
+    "name": "México",
+    "leaderName": "Porfirio Díaz",
+    "adjective": "Mexicano",
+    "preferredVictoryType": "Cultural",
+    "startBias": "Coast",
+    "cities": [
+      "Tenochtitlan",
+      "México",
+      "Guadalajara",
+      "Monterrey",
+      "Puebla",
+      "Tijuana",
+      "León",
+      "Juárez",
+      "Torreón",
+      "Querétaro",
+      "Mérida",
+      "Chihuahua",
+      "Veracruz",
+      "Cancún",
+      "Acapulco",
+      "Oaxaca",
+      "Tlaxcala",
+      "Morelia",
+      "Aguascalientes",
+      "Saltillo"
+    ],
+    "uniqueName": "Porfiriato",
+    "uniqueText": "El régimen de Porfirio Díaz trajo estabilidad y modernización a México, con bonus en cultura y producción en terrenos diversos.",
+    "uniques": [
+      "+1 Cultura por turno en selva",
+      "+1 Producción por turno en colinas",
+      "Empieza con unidad: Guerrero Jaguar",
+      "Puede construir Chinampa en ciudades costeras",
+      "+2 Oro por turno de rutas comerciales"
+    ],
+    "innerColor": [0, 100, 0, 255],
+    "outerColor": [200, 0, 0, 255],
+    "startIntroPart1": "¡Bienvenido a México, tierra de contrastes y riquezas! Bajo el liderazgo de Porfirio Díaz, forjaremos un imperio de cultura y prosperidad.",
+    "startIntroPart2": "Nuestra nación prospera en la diversidad: selvas exuberantes, colinas majestuosas y costas fértiles nos dan ventajas únicas.",
+    "declaringWar": "México declara la guerra. ¡La revolución no se detendrá!",
+    "attacked": "¡Hemos sido atacados! La defensa de nuestra patria es sagrada.",
+    "defeated": "México cae... pero su espíritu renacerá.",
+    "outerColor": [200, 0, 0, 255]
+  }
+]

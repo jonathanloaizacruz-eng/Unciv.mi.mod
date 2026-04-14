@@ -1,8 +1,9 @@
 {
   "modUrl": "https://github.com/jonathanloaizacruz-eng/Unciv.mi.mod",
-  "modName": "Mexico",
+  "modName": "México",
   "author": "jonathanloaizacruz-eng",
   "modVersion": "1.0",
   "gameVersion": "4.8.0",
-  "lastUpdated": "2026-04-14"
+  "lastUpdated": "2026-04-14",
+  "description": "Mod de México para Unciv con civilización, unidades y edificios únicos."
 }
